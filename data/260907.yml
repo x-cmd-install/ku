@@ -5,13 +5,13 @@ about:
   head: 7107e8c
   archived: false
   latestVersion: "v0.11.0"
-  collectedAt: 2026-09-07T05:00:17Z
+  collectedAt: 2026-09-07T19:23:08Z
 timeline:
   created: 2026-06-13
   lastCommit: 2026-08-03
   lastRelease: 2026-08-03
 popularity:
-  star: 545
+  star: 547
   watcher: 2
   fork: 23
   release: 25
@@ -81,7 +81,7 @@ total:
   commit: 106
 ---
 path: /home/runner/.x-repo/github.com/bjarneo/ku
-collectedAt: 2026-09-07T05:00:18Z
+collectedAt: 2026-09-07T19:23:10Z
 loc:
   Go:
     code: 13882
@@ -112,7 +112,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:00:18+00:00
+  collectedAt: 2026-09-07T19:23:10+00:00
   platform:
     darwin/arm64:
       name:  ku-darwin-arm64
