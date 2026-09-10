@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 53913760,
       "digest": "sha256:c6fd5b5d2fc386e15703c968ef409169bf05991b925025b6d8ab0db8386efb11",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-08-03T08:22:08Z",
       "updated_at": "2026-08-03T08:22:11Z",
       "browser_download_url": "https://github.com/bjarneo/ku/releases/download/v0.11.0/ku-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 51188930,
       "digest": "sha256:57ad073fd491b814980d22e18d71bfdbe991c0c212f72d5bd6916f5227561388",
-      "download_count": 65,
+      "download_count": 67,
       "created_at": "2026-08-03T08:22:08Z",
       "updated_at": "2026-08-03T08:22:12Z",
       "browser_download_url": "https://github.com/bjarneo/ku/releases/download/v0.11.0/ku-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 52838562,
       "digest": "sha256:44f666c903036edd6d62fcd1b357e385b6e3efe4acaa735d4252de846c1b1aa3",
-      "download_count": 121,
+      "download_count": 123,
       "created_at": "2026-08-03T08:22:08Z",
       "updated_at": "2026-08-03T08:22:11Z",
       "browser_download_url": "https://github.com/bjarneo/ku/releases/download/v0.11.0/ku-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 49807522,
       "digest": "sha256:0ae8bde250dbe887969c9de47a24d6ff17f64261d3467272253b92e34e911259",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-03T08:22:08Z",
       "updated_at": "2026-08-03T08:22:11Z",
       "browser_download_url": "https://github.com/bjarneo/ku/releases/download/v0.11.0/ku-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 54105600,
       "digest": "sha256:59d576a8d3a574cce3add771cc0a24d0a09409dbd4db7ee006676d9cf69b81b3",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-03T08:22:08Z",
       "updated_at": "2026-08-03T08:22:12Z",
       "browser_download_url": "https://github.com/bjarneo/ku/releases/download/v0.11.0/ku-windows-amd64.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 50257408,
       "digest": "sha256:04f4ad1dc0e484d545cb65197e85f937391e749351b014b8b86edef160107f23",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-08-03T08:22:08Z",
       "updated_at": "2026-08-03T08:22:11Z",
       "browser_download_url": "https://github.com/bjarneo/ku/releases/download/v0.11.0/ku-windows-arm64.exe"
