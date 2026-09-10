@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.11.0"
   latestRelease: "v0.11.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:59:14Z
+  collectedAt: 2026-09-10T22:47:46Z
 timeline:
   created: 2026-06-13
   lastCommit: 2026-08-03
@@ -85,7 +85,7 @@ total:
   commit: 106
 ---
 path: /home/runner/.x-repo/github.com/bjarneo/ku
-collectedAt: 2026-09-10T20:59:14Z
+collectedAt: 2026-09-10T22:47:48Z
 loc:
   Go:
     code: 13882

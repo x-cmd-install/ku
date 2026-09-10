@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 52838562,
       "digest": "sha256:44f666c903036edd6d62fcd1b357e385b6e3efe4acaa735d4252de846c1b1aa3",
-      "download_count": 126,
+      "download_count": 127,
       "created_at": "2026-08-03T08:22:08Z",
       "updated_at": "2026-08-03T08:22:11Z",
       "browser_download_url": "https://github.com/bjarneo/ku/releases/download/v0.11.0/ku-linux-amd64"
