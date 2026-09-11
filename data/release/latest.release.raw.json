@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 51188930,
       "digest": "sha256:57ad073fd491b814980d22e18d71bfdbe991c0c212f72d5bd6916f5227561388",
-      "download_count": 73,
+      "download_count": 74,
       "created_at": "2026-08-03T08:22:08Z",
       "updated_at": "2026-08-03T08:22:12Z",
       "browser_download_url": "https://github.com/bjarneo/ku/releases/download/v0.11.0/ku-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 52838562,
       "digest": "sha256:44f666c903036edd6d62fcd1b357e385b6e3efe4acaa735d4252de846c1b1aa3",
-      "download_count": 129,
+      "download_count": 132,
       "created_at": "2026-08-03T08:22:08Z",
       "updated_at": "2026-08-03T08:22:11Z",
       "browser_download_url": "https://github.com/bjarneo/ku/releases/download/v0.11.0/ku-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 49807522,
       "digest": "sha256:0ae8bde250dbe887969c9de47a24d6ff17f64261d3467272253b92e34e911259",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-08-03T08:22:08Z",
       "updated_at": "2026-08-03T08:22:11Z",
       "browser_download_url": "https://github.com/bjarneo/ku/releases/download/v0.11.0/ku-linux-arm64"
