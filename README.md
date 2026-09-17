@@ -46,12 +46,12 @@ Total: **14,023** lines of code across **89** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-07-18 | 3 | 3 | 3 | 0 | 3 | 2 |
-| 90d | 2026-06-18 | 10 | 5 | 3 | 4 | 5 | 16 |
-| last180d | 2026-03-20 | 25 | 9 | 3 | 24 | 6 | 104 |
-| 360d | 2025-09-21 | 25 | 9 | 3 | 24 | 6 | 104 |
-| last720d | 2024-09-26 | 25 | 9 | 3 | 24 | 6 | 106 |
+| 30d | 2026-08-18 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-19 | 3 | 3 | 3 | 0 | 3 | 2 |
+| 90d | 2026-06-19 | 9 | 5 | 3 | 4 | 5 | 16 |
+| last180d | 2026-03-21 | 25 | 9 | 3 | 24 | 6 | 104 |
+| 360d | 2025-09-22 | 25 | 9 | 3 | 24 | 6 | 104 |
+| last720d | 2024-09-27 | 25 | 9 | 3 | 24 | 6 | 106 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for ku lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:13:36Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:15:39Z._
