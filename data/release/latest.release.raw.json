@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 500,
       "digest": "sha256:4e1cba553a397a3250bd69a99e4d1aff290c66e4072da6753e194d6eaec825d3",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-09-17T20:25:46Z",
       "updated_at": "2026-09-17T20:25:55Z",
       "browser_download_url": "https://github.com/bjarneo/ku/releases/download/v0.12.0/checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 52863138,
       "digest": "sha256:4899bd790f7681b90e425ecebfa09cc757307ca70e4e504079714470e50171ed",
-      "download_count": 22,
+      "download_count": 27,
       "created_at": "2026-09-17T20:25:46Z",
       "updated_at": "2026-09-17T20:27:11Z",
       "browser_download_url": "https://github.com/bjarneo/ku/releases/download/v0.12.0/ku-linux-amd64"
