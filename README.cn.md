@@ -4,7 +4,7 @@
 
 A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. 
 
-[![x-cmd/install — ku Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ku.svg?lang=zh)](https://x-cmd.com/install/ku)
+[![x-cmd/install — ku Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ku.svg?lang=zh)](https://x-cmd.com/install/ku)
 
 ## 安装
 
@@ -36,7 +36,7 @@ x install ku
 
 ## 流行度
 
-- **Star**: 557 · **Fork**: 24 · **开放 issue**: 30 · **贡献者**: 9
+- **Star**: 558 · **Fork**: 24 · **开放 issue**: 30 · **贡献者**: 9
 
 ## 累计统计
 
@@ -46,12 +46,12 @@ x install ku
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 3 | 1 | 1 | 0 | 5 |
-| last60d | 2026-07-24 | 3 | 4 | 1 | 2 | 1 | 6 |
-| 90d | 2026-06-24 | 9 | 8 | 1 | 7 | 1 | 19 |
-| last180d | 2026-03-26 | 26 | 12 | 1 | 29 | 1 | 109 |
-| 360d | 2025-09-27 | 26 | 12 | 1 | 29 | 1 | 109 |
-| last720d | 2024-10-02 | 26 | 12 | 1 | 29 | 1 | 111 |
+| 30d | 2026-08-24 | 1 | 3 | 1 | 1 | 0 | 5 |
+| last60d | 2026-07-25 | 3 | 4 | 1 | 2 | 1 | 6 |
+| 90d | 2026-06-25 | 8 | 8 | 1 | 7 | 1 | 19 |
+| last180d | 2026-03-27 | 26 | 12 | 1 | 29 | 1 | 109 |
+| 360d | 2025-09-28 | 26 | 12 | 1 | 29 | 1 | 109 |
+| last720d | 2024-10-03 | 26 | 12 | 1 | 29 | 1 | 111 |
 
 ## Release 资产
 
@@ -74,4 +74,4 @@ ku 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:09:44Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:10:45Z._

@@ -4,7 +4,7 @@
 
 A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. 
 
-[![x-cmd/install — ku Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ku.svg)](https://x-cmd.com/install/ku)
+[![x-cmd/install — ku Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ku.svg)](https://x-cmd.com/install/ku)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **15,916** lines of code across **99** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 557 · **Forks**: 24 · **Open issues**: 30 · **Contributors**: 9
+- **Stars**: 558 · **Forks**: 24 · **Open issues**: 30 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **15,916** lines of code across **99** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 3 | 1 | 1 | 0 | 5 |
-| last60d | 2026-07-24 | 3 | 4 | 1 | 2 | 1 | 6 |
-| 90d | 2026-06-24 | 9 | 8 | 1 | 7 | 1 | 19 |
-| last180d | 2026-03-26 | 26 | 12 | 1 | 29 | 1 | 109 |
-| 360d | 2025-09-27 | 26 | 12 | 1 | 29 | 1 | 109 |
-| last720d | 2024-10-02 | 26 | 12 | 1 | 29 | 1 | 111 |
+| 30d | 2026-08-24 | 1 | 3 | 1 | 1 | 0 | 5 |
+| last60d | 2026-07-25 | 3 | 4 | 1 | 2 | 1 | 6 |
+| 90d | 2026-06-25 | 8 | 8 | 1 | 7 | 1 | 19 |
+| last180d | 2026-03-27 | 26 | 12 | 1 | 29 | 1 | 109 |
+| 360d | 2025-09-28 | 26 | 12 | 1 | 29 | 1 | 109 |
+| last720d | 2024-10-03 | 26 | 12 | 1 | 29 | 1 | 111 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for ku lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:09:44Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:10:44Z._
