@@ -36,22 +36,22 @@ Total: **15,916** lines of code across **99** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 558 · **Forks**: 24 · **Open issues**: 30 · **Contributors**: 9
+- **Stars**: 558 · **Forks**: 24 · **Open issues**: 32 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 12 · **Open PRs**: 1 · **Closed issues**: 29 · **Open issues**: 1 · **Commits**: 111
+- **Releases**: 26 · **Merged PRs**: 12 · **Open PRs**: 1 · **Closed issues**: 30 · **Open issues**: 2 · **Commits**: 111
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 1 | 3 | 1 | 1 | 0 | 5 |
-| last60d | 2026-07-25 | 3 | 4 | 1 | 2 | 1 | 6 |
-| 90d | 2026-06-25 | 8 | 8 | 1 | 7 | 1 | 19 |
-| last180d | 2026-03-27 | 26 | 12 | 1 | 29 | 1 | 109 |
-| 360d | 2025-09-28 | 26 | 12 | 1 | 29 | 1 | 109 |
-| last720d | 2024-10-03 | 26 | 12 | 1 | 29 | 1 | 111 |
+| 30d | 2026-08-25 | 1 | 3 | 1 | 2 | 1 | 5 |
+| last60d | 2026-07-26 | 2 | 4 | 1 | 3 | 2 | 6 |
+| 90d | 2026-06-26 | 8 | 8 | 1 | 8 | 2 | 19 |
+| last180d | 2026-03-28 | 26 | 12 | 1 | 30 | 2 | 109 |
+| 360d | 2025-09-29 | 26 | 12 | 1 | 30 | 2 | 109 |
+| last720d | 2024-10-04 | 26 | 12 | 1 | 30 | 2 | 111 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for ku lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:10:44Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:58:37Z._
