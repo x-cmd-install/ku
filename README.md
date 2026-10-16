@@ -21,7 +21,7 @@ Total: **15,916** lines of code across **99** files in the top 5 languages.
 | Go | 15,775 | 1,115 | 1,698 | 90 |
 | Sh | 115 | 1 | 21 | 1 |
 | Makefile | 26 | 4 | 8 | 1 |
-| Markdown | 0 | 571 | 191 | 7 |
+| Markdown | 0 | 570 | 191 | 7 |
 
 ## Source
 
@@ -31,7 +31,7 @@ Total: **15,916** lines of code across **99** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.12.0` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-10-15
 - **Assets in release**: 7
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **15,916** lines of code across **99** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 12 · **Open PRs**: 2 · **Closed issues**: 30 · **Open issues**: 2 · **Commits**: 111
+- **Releases**: 26 · **Merged PRs**: 12 · **Open PRs**: 2 · **Closed issues**: 30 · **Open issues**: 2 · **Commits**: 112
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 0 | 2 | 1 | 1 | 0 |
-| last60d | 2026-08-16 | 1 | 3 | 2 | 2 | 1 | 5 |
-| 90d | 2026-07-17 | 4 | 6 | 2 | 3 | 2 | 9 |
-| last180d | 2026-04-18 | 26 | 12 | 2 | 30 | 2 | 109 |
-| 360d | 2025-10-20 | 26 | 12 | 2 | 30 | 2 | 109 |
-| last720d | 2024-10-25 | 26 | 12 | 2 | 30 | 2 | 111 |
+| 30d | 2026-09-16 | 1 | 0 | 2 | 1 | 1 | 1 |
+| last60d | 2026-08-17 | 1 | 3 | 2 | 2 | 1 | 6 |
+| 90d | 2026-07-18 | 4 | 6 | 2 | 3 | 2 | 10 |
+| last180d | 2026-04-19 | 26 | 12 | 2 | 30 | 2 | 110 |
+| 360d | 2025-10-21 | 26 | 12 | 2 | 30 | 2 | 110 |
+| last720d | 2024-10-26 | 26 | 12 | 2 | 30 | 2 | 112 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for ku lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:47:24Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:42:36Z._
