@@ -13,9 +13,9 @@
 - repo: nix_unstable
   srcname: ku
   visiblename: ku
-  version: 0.12.0
+  version: 0.13.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Fast, keyboard-driven Kubernetes TUI
   maintainers:
     - gitkevin@pm.me
